@@ -1,2 +1,2 @@
-# CursoProgramación Web
+# CursoProgramaciónWeb
 Repositorio de Comunicación Multimedial
